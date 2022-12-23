@@ -1,0 +1,138 @@
+#header{
+    width: 100%;
+    height: 80px;
+    background-color: lightgray;
+    
+}
+
+#images1{
+    width: 70%;
+    height: 80px;
+}
+#headerimg{
+    width: 100%;
+    height: 100%;
+}
+#navbar{
+    margin: 10px auto;
+}
+
+#cards1{
+  width: 850px;
+  height: 800px;
+  /* background-color: yellow; */
+  text-align: left;
+}
+
+#card2{
+    width: 270px;
+    height: 170px; 
+    margin-left: 580px;
+    position: relative;
+    bottom: 507px;
+}
+
+#card3{
+    width: 270px;
+    height: 290px;
+    position: relative;
+    margin-left: 580px;
+    bottom: 580px;
+}
+
+#secondcardabc{
+    margin-top: -550px;
+    position: relative;
+    left: -290px;
+   
+}
+#firstcardabcd{
+    margin-top: 250px;
+    position: relative;
+    left: 280px;
+}
+
+#firstcardabcde{
+    margin-top: 240px;
+    position: relative;
+    left: 580px;
+}
+
+#imageslider{
+/* background-color: yellow; */
+margin-top: 300px;
+position: relative;
+top: 100px;
+height: 300px;
+width: 70%;
+margin: 10px auto;
+left: 15px;
+
+}
+
+#rightclick{
+    position: relative;
+    right: 0px;
+}
+#leftclick{
+    position: relative;
+    left: 845px;
+    margin-top: -50px;
+}
+
+#footer{
+    background-color: darkslategray;
+    width: 100%;
+    height: 300px;
+    margin-top: 150px;
+    bottom: 10px;
+}
+
+#tpc{
+    width: 1000px;
+    height: 1000px;
+    /* background-color: yellow; */
+    color: whitesmoke;
+    /* position: absolute; */
+    /* z-index: 1; */
+    /* margin-left: 1000px; */
+    position: relative;
+    left: 240px;
+    top: 30px;
+}
+
+li{
+    color: lightseagreen;
+}
+li:hover{
+    color: white;
+}
+a, li{
+    text-decoration: none;
+}
+
+#middle{
+    position: relative;
+    left: 550px;
+    top: -185px;
+}
+
+#lastfooter{
+    position: relative;
+    left: 870px;
+    bottom: 200px;
+}
+
+#smallpara{
+    display: block;
+    width: 150px;
+}
+
+
+
+
+   #sticky{
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+      }
